@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+My stack:
+- C/C++ (STL, SFML, metaprog, atomic)
+- Python
+- JS
 <!--
 **korzck/korzck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
