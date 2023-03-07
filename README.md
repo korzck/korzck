@@ -32,3 +32,5 @@
 <br clear="both">
 
 <img src="https://readme-jokes.vercel.app/api?theme=default" width="100%"/>
+
+<img src="https://gpvc.arturio.dev/korzck" >
