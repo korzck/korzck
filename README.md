@@ -2,7 +2,7 @@
 
 ###
 
-![korzck's GitHub stats](https://github-readme-stats.vercel.app/api?username=korzck&hide=contribs,prs)
+![korzck's GitHub stats](https://github-readme-stats.vercel.app/api?username=korzck)
 
 ###
 
