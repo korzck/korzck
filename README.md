@@ -2,11 +2,9 @@
 
 ###
 
-![korzck's GitHub stats](https://github-readme-stats.vercel.app/api?username=korzck)
+[![korzck's GitHub stats](https://github-readme-stats.vercel.app/api?username=korzck&theme=ayu-mirage)
 
-###
-
-<img align="right" height="150" src="https://media.tenor.com/gTg8ZSZMR6YAAAAM/scaler-create-impact.gif"  />
+<img align="right" height="150" src="https://media.tenor.com/gTg8ZSZMR6YAAAAM/scaler-create-impact.gif">
 
 ###
 
@@ -33,6 +31,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/korzck/korzck/blob/output/snake.svg" alt="Snake animation" />
-
-###
+<img src="https://readme-jokes.vercel.app/api?theme=default" width="100%"/>
