@@ -2,7 +2,7 @@
 
 ###
 
-[![korzck's GitHub stats](https://github-readme-stats.vercel.app/api?username=korzck&theme=ayu-mirage)
+![korzck's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=korzck&theme=ayu-mirage)
 
 <img align="right" height="150" src="https://media.tenor.com/gTg8ZSZMR6YAAAAM/scaler-create-impact.gif">
 
