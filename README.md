@@ -1,15 +1,10 @@
-<h2 align="left">Hey hey, this is korzck's coding playground 👋</h2>
+<h2 align="left">Hey, this is korzck's coding playground 👋</h2>
 
 ###
 
 ![korzck's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=korzck&theme=ayu-mirage)
 
-<img align="right" height="150" src="https://media.tenor.com/gTg8ZSZMR6YAAAAM/scaler-create-impact.gif">
-
-
-<br clear="both">
-
-<img src="https://readme-jokes.vercel.app/api?theme=default" width="100%"/>
+![](https://github-readme-activity-graph.cyclic.app/graph?username=korzck&theme=github-compact)
 
 
 ## My Skill Set  
@@ -66,5 +61,7 @@
 </td></tr></table>  
 
 <br/>  
+
+<img src="https://readme-jokes.vercel.app/api?theme=default" width="100%"/>
 
 <img src="https://gpvc.arturio.dev/korzck" >
