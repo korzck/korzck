@@ -6,7 +6,7 @@
 
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=korzck&theme=github-compact)
 
-
+<!-- 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
@@ -59,7 +59,7 @@
 </div>
 
 </td></tr></table>  
-
+ -->
 <br/>  
 
 <img src="https://readme-jokes.vercel.app/api?theme=default" width="100%"/>
